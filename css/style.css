@@ -7,6 +7,7 @@
 body{
     font-family: 'Fredoka', sans-serif;
 }
+/* TOP SECTION */
 
 header{
     margin-top: 20px;
@@ -17,18 +18,17 @@ h1{
     color: rgb(229, 49, 112);
 }
 
+/* MAIN SECTION */
+
 .containertext{
     text-align: center;
     font-size: 18px;
     margin-top: 50px;
-
 }
 
 
-/* utilities */
-
 main{
-    max-width: 1170px;
+    max-width: 1238px;
     margin: 0 auto;
 }
 
