@@ -13,10 +13,11 @@ body{
 
 header{
     text-align: center;
-    color: rgb(220, 20, 170);
+    color: rgb(229, 49, 112);
     margin-top: 40px;
 }
 
+/* MAIN SECTION */
 .containertext{
     margin-top: 30px;
     text-align: center;
@@ -26,6 +27,7 @@ header{
     margin-top: 30px;
 }
 
+/* PRESENTATION CARDS */
 .row::after{
     content: '';
     display: table;
